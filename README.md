@@ -12,8 +12,9 @@
  * Artifitial Intelligence
  > If it's just us, it seems like an awful waste of space. **-Carl Sagan**
  
+ 
 ### Work
  #### Media art
  * **Digital Wonderland** (2017)
  1. 산해경(Sanhaegyeong), *interactive projection mapping installation*
- ##### https://vimeo.com/271162168
+ * https://vimeo.com/271162168
